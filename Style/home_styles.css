@@ -15,9 +15,6 @@ nav li {
     background-color: blue;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         list-style-type: none;
-        height: 50px;
-        float: left;
-        width: 20%;
         color: rgba(255,192,203,1);
         display: inline;
 }
@@ -44,12 +41,12 @@ nav li a {
 
 
 .container {
-        width = 80%;
-        margin = 0 auto;
+        width: 80%;
+        margin: 0 auto;
 }
 
 header {
-    background = rgba(0,0,0);
+    background: rgba(0,0,0);
     height: 80px;
 }
        
