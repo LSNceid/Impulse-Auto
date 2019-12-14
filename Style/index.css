@@ -1,0 +1,17 @@
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+background: rgba(0,0,0);
+height: 80px;
+}
+
+img {
+display: block;
+text-align: center;
+position: absolute;
+left: 40%;
+}
