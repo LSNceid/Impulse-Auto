@@ -16,7 +16,7 @@ nav li {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         list-style-type: none;
         color: rgba(255,192,203,1);
-        display: inline;
+        display: inline-block;
 }
 
     nav li:hover {
