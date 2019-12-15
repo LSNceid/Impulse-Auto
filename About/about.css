@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+    background-color: rgb(248, 247, 211);
+   }
+
+header {
+    background: rgb(248, 247, 211);
+    height: 100px;
+}
